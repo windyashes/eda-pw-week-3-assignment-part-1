@@ -31,7 +31,7 @@ In the file there are some examples of working with arrays followed by __TODO__ 
 
 
 ## Assignment Submission
-Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
+Check in your repo, then turn in your work via the Assignment Application at http://portal.emergingacademy.org as usual and don't hesitate to hit up the Slack channel as needed!
 
 **REMINDER:** Make sure to answer the Slack discussion question for this week!
 
