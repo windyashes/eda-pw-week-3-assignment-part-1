@@ -158,9 +158,14 @@ console.log(gemString2);
 //     It should look something like:
 //       ['Tourmaline', 'Topaz', 'Tanzanite', 'Iolite', 'Emerald', 'Diamond', 'yellow', 'green']
 //     Now, console.log the new array.
-
-
-
+let colorfulGems = [];
+for(let i =0; i < gems.length; i++){
+  colorfulGems.push(gems[i]);
+}
+for(let i = 0; i < colors.length; i++){
+  colorfulGems.push(colors[i]);
+}
+console.log(colorfulGems);
 
 // DO NOT MODIFY
 // Used for automated testing
