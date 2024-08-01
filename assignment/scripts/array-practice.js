@@ -139,6 +139,18 @@ console.log(gems);
 //       "Emerald and Diamond and Tourmaline and Topaz"
 //     🔥 You'll need to research the .join Array method. 🔥
 //     Don't forget to console.log `gemString`...
+let gemString = "";
+for(let i = 0; i < gems.length; i++){
+  if(i>0){
+    gemString += " and ";
+  }
+  gemString += gems[i];
+}
+console.log(gemString);
+/* I saw that there was a solution without having to look up .join? */
+/* edit: I looked it up and it seems like a much simpler solution so I'll do it as well. */
+let gemString2 = gems.join(" and ");
+console.log(gemString2);
 
 
 // 5.d (STRETCH) TODO: Make a new array `colorfulGems` that combines 
